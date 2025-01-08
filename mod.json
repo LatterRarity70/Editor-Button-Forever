@@ -1,0 +1,28 @@
+{
+	"geode": "4.0.1",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "user95401.editor_button_forever",
+	"early-load": true,
+	"name": "Editor Button Forever",
+	"version": "v1.0.0",
+	"developer": "user95401",
+	"description": "Basically, for fan-made mods that don’t allow you to go to the creator layer.",
+	"tags": [ "cheat", "utility", "interface" ],
+	"links": {
+		"community": "https://discord.gg/6SxAbk3bTA",
+		"homepage": "https://t.me/user95401_channel",
+		"source": "https://github.com/user95401/Editor-Button-Forever"
+	},
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.18.0",
+			"importance": "required"
+		}
+	]
+}
