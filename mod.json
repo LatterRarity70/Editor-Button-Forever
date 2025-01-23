@@ -1,5 +1,5 @@
 {
-	"geode": "4.0.1",
+	"geode": "4.2.0",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
@@ -9,9 +9,9 @@
 	"id": "user95401.editor_button_forever",
 	"early-load": true,
 	"name": "Editor Button Forever",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "user95401",
-	"description": "Basically, for fan-made mods that don’t allow you to go to the creator layer.",
+	"description": "Basically, for fan-made mods that don't allow you to go to the creator layer.",
 	"tags": [ "cheat", "utility", "interface" ],
 	"links": {
 		"community": "https://discord.gg/6SxAbk3bTA",

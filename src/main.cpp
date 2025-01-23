@@ -1,5 +1,4 @@
 #include <Geode/Geode.hpp>
-#include "_updater.hpp"
 
 using namespace geode::prelude;
 
