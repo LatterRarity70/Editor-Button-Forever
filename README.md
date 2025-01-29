@@ -6,9 +6,6 @@ Basically, for fan-made mods that don't allow you to go to the creator layer. Th
 
 *Updated logo.png to change mod's icon (really)*
 
-#### Mod developer was banned on Geode for dumb reasons, but he still keeps his mods up-to-date. <br>See for working latest versions at [releases page](../../releases)!
-> Yes, u can't find it in geode servers, download it and install manually.
-
 ## Getting started
 We recommend heading over to [the getting started section on our docs](https://docs.geode-sdk.org/getting-started/) for useful info on what to do next.
 
